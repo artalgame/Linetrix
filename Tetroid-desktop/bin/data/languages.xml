@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	<!-- English -->
+	<language name="en_UK" >
+		<string key="Tetlines" value="Linetrix" />
+		<string key="Tetrix" value="Tetrix" />
+		<string key="Credits" value="Credits" />
+		<string key="Play" value="Play" />
+		<string key="Continue" value="Continue" />
+		<string key="Restart" value="Restart" />
+		<string key="Game Over" value="Game over" />
+		<string key="Menu" value="Menu" />
+		<string key="Exit" value="Exit" />
+		<string key="Score" value="My score in Linetrix: %d Play it now: http://goo.gl/MepqH" />
+		<string key="Share via" value="Share via" />
+		<!-- Roles -->
+		<string key="roleKey0" value="Programmer"/>
+		<string key="roleValue0" value="Dmitry Solodky"/>
+		<string key="roleKey1" value="Artist"/>
+		<string key="roleValue1" value="Artem Korolchuk"/>
+		<string key="roleKey2" value="Manager"/>
+		<string key="roleValue2" value="Alexander Korolchuk"/>
+		<string key="roleKey3" value="Technology"/>
+		<string key="roleValue3" value="LibGDX"/>
+	</language>
+	<!-- Russian -->
+	<language name="ru_RU" >
+		<string key="Tetlines" value="Лайнтрикс" />
+		<string key="Tetrix" value="Тетрикс" />
+		<string key="Credits" value="Авторы" />
+		<string key="Play" value="Игра" />
+		<string key="Continue" value="Продолжить" />
+		<string key="Restart" value="Начать заново" />
+		<string key="Game Over" value="Конец игры" />
+		<string key="Menu" value="Меню" />
+		<string key="Exit" value="Выход" />
+		<string key="Score" value="Мой результат в Лайнтрикс: %d Играй! http://goo.gl/MepqH" />
+		<string key="Share via" value="Поделиться в" />
+		<!-- Roles -->
+		<string key="roleKey0" value="Программист"/>
+		<string key="roleValue0" value="Дмитрий Солодкий"/>
+		<string key="roleKey1" value="Художник"/>
+		<string key="roleValue1" value="Артем Корольчук"/>
+		<string key="roleKey2" value="Менеджер"/>
+		<string key="roleValue2" value="Александр Корольчук"/>
+		<string key="roleKey3" value="Технология"/>
+		<string key="roleValue3" value="LibGDX"/>
+	</language>
+</languages>

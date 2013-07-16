@@ -1,0 +1,33 @@
+
+sprites.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 10, 600
+  orig: 10, 600
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 13, 538
+  size: 230, 63
+  orig: 230, 63
+  offset: 0, 0
+  index: -1
+figure
+  rotate: false
+  xy: 13, 408
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_tile
+  rotate: false
+  xy: 13, 343
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
